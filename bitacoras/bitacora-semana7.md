@@ -31,11 +31,11 @@ Antes de abrir o ejecutar el programa, responde:
 
 ### Resultado observado
 
+
+### Diferencia entre la prediccion y el resultado
 [Describe que ocurrio realmente al ejecutar o probar la solucion. No escribas
 solamente "funciono" o "no funciono". Incluye los datos de entrada y el
 resultado relevante.]
-
-### Diferencia entre la prediccion y el resultado
 
 [Explica que coincidencias o diferencias encontraste y que las puede explicar.]
 
